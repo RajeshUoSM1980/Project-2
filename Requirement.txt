@@ -6,3 +6,5 @@ video call
 Add money
 Transfer money
 Send money
+
+Acknowledge
