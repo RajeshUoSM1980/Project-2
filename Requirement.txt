@@ -2,3 +2,7 @@ Emoji
 Type option
 dark mode
 video call
+
+Add money
+Transfer money
+Send money
