@@ -1,2 +1,4 @@
 Emoji
 Type option
+dark mode
+video call
